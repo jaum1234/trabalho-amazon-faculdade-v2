@@ -1,6 +1,6 @@
-Trabalho DPW Primeiro Periodo
+# Trabalho DPW Primeiro Periodo
 
-Alunos: Gabriel Santos e Joao Vitor Coura
+## Alunos: Gabriel Santos e Joao Vitor Coura
 
-Todos os requisitos foram implementados. 
-A tabela está localizada no arquivo resposta.html.
+- Todos os requisitos foram implementados. 
+- A tabela está localizada no arquivo resposta.html.
